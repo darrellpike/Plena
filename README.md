@@ -1,7 +1,6 @@
 <img src="plena.jpg" alt="Plena" width="800px">
 
 # Plena Trading Platform #
-* [www.plena-tp.com.br](https://www.facebook.com/pg/plena.tp)
 
 Plena Trading Platform is a simple and powerful tool for traders in stock market. It provides graphical analysis, back-testing, mathematical studies and customizable indicators on financial market.
 
@@ -38,7 +37,3 @@ C#.
 ### Contribution guidelines ###
 
 * Anyone and everyone is welcome to contribute.
-
-### Contact ###
-
-* [vinicius.silva.arruda@gmail.com](mailto:vinicius.silva.arruda@gmail.com)
